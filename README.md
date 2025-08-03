@@ -1,1 +1,1 @@
-# Vintage-Story-Polska
+# vs-server-0912x8cfg
